@@ -11,7 +11,7 @@ This is a simple two-player trivia game built using HTML, CSS, and JavaScript. P
 * **Answer Shuffling:** Answer options are shuffled for each question to prevent predictability.
 * **Score Tracking:** Keeps track of each player's score throughout the game.
 * **Game Over Screen:** Displays the final scores and declares the winner (or a tie).
-* **Responsive Design:** (If you implement this) The game is designed to be responsive and playable on different screen sizes.
+* **Responsive Design:** The game is designed to be responsive and playable on different screen sizes.
 
 ## How to Play
 
